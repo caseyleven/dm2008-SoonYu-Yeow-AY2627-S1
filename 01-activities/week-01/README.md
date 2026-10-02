@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | 'We tried our hand at drawing something in p5js. It was our first coding session, and a lot of the things I did at this time were quite repetitive, like drawing shapes, indicating their size, coordinates, and colour, etc. I drew a duck and I'm sure many others did too. This would serve as our basic foundation for Week 1.' |
+| `1a`     | We tried our hand at drawing something in p5js. It was our first coding session, and a lot of the things I did at this time were quite repetitive, like drawing shapes, indicating their size, coordinates, and colour, etc. I drew a duck and I'm sure many others did too. This would serve as our basic foundation for Week 1. |
 | `1b`     | <!-- one line description --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
