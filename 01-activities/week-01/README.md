@@ -25,6 +25,8 @@ Week 1 — Introduction to Creative Coding
 For activity 1a, I made a duck, and as I found out, many others did as well. It was important to try to experiment with how shapes and coordinates worked at the time as these were fundamentals we had to master later on. I had a lot of fun tinkering with the different shapes and colours, and it took a lot of trial-and-error to make sure they were in the right place.
 
 For activity 1b, I created a simple trail-like effect using the mousePressed function I learned that day. This was the first time I was taught the meaning of draw, and how it could create moving animations. I also picked up using mouseX and mouseY to make the shape follow the mouse, and changing the alpha of the background to create a trail effect (which I would be obsessed with doing later on).
+
+
 ---
 
 ### Output
