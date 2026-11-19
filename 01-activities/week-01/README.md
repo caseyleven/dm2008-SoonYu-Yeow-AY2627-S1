@@ -6,7 +6,7 @@
 
 ---
 
-Week 1 — Introduction to Creative Coding
+### Activities
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |

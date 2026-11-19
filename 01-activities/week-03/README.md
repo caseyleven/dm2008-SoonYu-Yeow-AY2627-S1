@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 03 — Arrays & Functions
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `3a`     | We had to create something that could visualise data from an array. I was inspired by my previous audio waveform work from activity 2b, so I did another sketch inspired by music visualisers. |
+| `3b`     | For this activity, we needed to create a simpl egraphic and have it be customisable and applied with different features like size or colour.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
