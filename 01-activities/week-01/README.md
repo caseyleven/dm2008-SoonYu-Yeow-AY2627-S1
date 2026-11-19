@@ -29,7 +29,7 @@ For activity 1b, I created a simple trail-like effect using the mousePressed fun
 
 ### Output
 
-![screenshot 1a](01-activities\week-01\readme-assets\Screenshot 2026-08-12 171434.png)
+![screenshot](01-activities\week-01\readme-assets\Screenshot 2026-08-12 171434.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
