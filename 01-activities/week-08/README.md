@@ -22,11 +22,11 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
-     Just for clarification, for 8a, me, Isaac, and Jacee did type 2 and type 3, while for 8b, I believe we did type 2. But the extra code included is for my own reference, since Kapi said that the slides (and the code) could be changed around in the future. 
+Just for clarification, for 8a, me, Isaac, and Jacee did type 2 and type 3, while for 8b, I believe we did type 2. But the extra code included is for my own reference, since Kapi said that the slides (and the code) could be changed around in the future. 
 
-     For 8a, we went through the basics of setting up the arduino using the solder-less bread board and some LEDs, resisters, and jumper wires. Then we controlled the light functions by making it blink with a delay, or fade in and out.
+For 8a, we went through the basics of setting up the arduino using the solder-less bread board and some LEDs, resisters, and jumper wires. Then we controlled the light functions by making it blink with a delay, or fade in and out.
 
-     For 8b, we controlled an unltrasonic sensor that could detect distance, compute it in meters, and send the info back to us through the console log.
+For 8b, we controlled an unltrasonic sensor that could detect distance, compute it in meters, and send the info back to us through the console log.
 
 ---
 
