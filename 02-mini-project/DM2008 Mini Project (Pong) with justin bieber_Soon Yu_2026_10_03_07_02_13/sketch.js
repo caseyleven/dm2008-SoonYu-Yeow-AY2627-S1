@@ -57,7 +57,7 @@ async function setup() {
 //function keyPressed() {}
 
 function draw() {
-  songHasPlayed=false
+  //songHasPlayed=false
   background(18);
   textFont("Unbounded");
   textStyle(BOLD);
@@ -74,7 +74,7 @@ function draw() {
     text("W and S to move", 160, 200);
     text("↑ and ↓ to move", 480, 200);
     text("Press 'space' to start", width / 2, 300);
-    songCounter = 0;
+    //songCounter = 0;
     fill(255, 170, 70);
     introBall.show();
     introBall.update();
@@ -158,10 +158,20 @@ function draw() {
     // Display scores — look up textAlign() and textSize() in the p5.js reference
   }
 
-  //Condition is that one side scores 3 to win
-  if (leftScore === 3 || rightScore === 3) {
+  //Condition is that one side scores 3 to win 
+  //STOP SONG FROM SPAZZING TF OUT
+
+    if (gameState !== "gameover" && (leftScore === 3 || rightScore === 3)) {
     gameState = "gameover";
-    songCounter = songCounter + 1
+babySong.stop();
+    jasonDeruloSong.stop();
+    gameOverDerulo.stop();
+
+    if (leftScore === 3) {
+      babySong.play();
+    } else {
+      gameOverDerulo.play();
+    }
   }
 
   if (gameState === "gameover") {
@@ -186,10 +196,7 @@ function draw() {
     //text different depending on who won
 if (leftScore === 3 || 2 > songCounter > 0) {
   text("JUSTIN BIEBER wins-- never say never.", width / 2, 280);
-  if (!songHasPlayed) {
-    babySong.play();
-    songHasPlayed = true;
-  }
+   
 }
 if (rightScore === 3 || 2 > songCounter > 0) {
   text("JASON DERULOOO-- is what the winner would say, cuz they won.", width / 2, 280);
