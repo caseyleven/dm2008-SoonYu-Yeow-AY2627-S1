@@ -1,54 +1,112 @@
-# Sensor Jam — Title
+# Week ## — Topic Name
 
-<!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
+<!-- Replace ## with the week number and Topic Name with the week's focus -->
+<!-- You may also refer to each week's slide for the Topic Name -->
+<!-- e.g. Week 03 — Arrays & Functions -->
 
 ---
 
-### The Project
+### Activities
 
-<!-- What does your sketch do, and what physical input drives it?
-     How does the sensor data translate into something on screen?
-     A few sentences is all you need. -->
+| Activity | What I Made                   |
+| -------- | ----------------------------- |
+| `8a`     | I teamed up with Isaac and Jacee to test out the on/off controls and fade control on Arduino. |
+| `8b`     | We then went on to also test out the force sensor code on our setup. |
+
+<!-- Add or remove rows to match the activities for this week. -->
+
+---
+
+### This Week
+
+<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
+     A few sentences is all you need — write it like a journal entry, not a report. -->
+
+     Just for clarification, for 8a, me, Isaac, and Jacee did type 2 and type 3, while for 8b, I believe we did type 2. But the extra code included is for my own reference, since Kapi said that the slides (and the code) could be changed around in the future. 
+
+     For 8a, we went through the basics of setting up the arduino using the solder-less bread board and some LEDs, resisters, and jumper wires. Then we controlled the light functions by making it blink with a delay, or fade in and out.
+
+     For 8b, we controlled an unltrasonic sensor that could detect distance, compute it in meters, and send the info back to us through the console log.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+**8a**
 
-<!-- Drop a screenshot or GIF of your sketch in action.
-     Got a photo of your physical setup too? Throw it in.
-     Save everything to a readme-assets/ folder inside this project folder. -->
+![screenshot](readme-assets/20261007_151612.jpg)
 
-[Watch Online](https://your-link-here)
+Here we began slowly setting up the arduino.
 
-<!-- Replace the link above with a URL to a video of your project in action.
-     ⚠️ Make sure the file or page is set to public before submitting. -->
+![screenshot](readme-assets/20261007_152333.jpg)
+
+![screenshot](readme-assets/20261007_152341.jpg)
+
+![screenshot](readme-assets/20261007_153314.jpg)
+
+![screenshot](readme-assets/20261007_162149.jpg)
+
+![screenshot](readme-assets/20261007_162435.jpg)
+
+We got the lights working, but it was hard getting used to the new language used in Arduino.
+
+[Watch Online](https://youtube.com/shorts/iUQuHNehv5I) 
+
+Blinking Light Example
+
+[Watch Online](https://youtube.com/shorts/rH6L4_IVb_Q?feature=share) 
+
+Fading Light Example
+
+---
+
+**8b**
+
+![screenshot](readme-assets/20261007_165233.jpg)
+
+Slowly setting up the motion sensor...
+
+![screenshot](readme-assets/20261007_165502.jpg)
+
+![screenshot](readme-assets/20261007_165505.jpg)
+
+![screenshot](readme-assets/20261007_170828.jpg)
+
+![screenshot](readme-assets/20261007_165727.jpg)
+
+We got the console to convert the units to cm!
+
+[Watch Online](https://youtu.be/YYtU9IOrQGQ)
+
+Sensor Example
+
+
+<!-- Drop a screenshot, photo, or GIF of something you made this week.
+     Save it to a readme-assets/ folder inside this week's folder.
+     Made more than one thing worth showing? Add more images. -->
 
 ---
 
 <!-- ─────────────────────────────────────────────────────
-     GOING FURTHER — want to document more? Try any of these:
+     GOING FURTHER — if you want to document more, here are some ideas:
 
-     ### ✍️ Reflection
-     A short write-up of your process — what worked, what didn't,
-     and what you'd take further if you had more time.
+     ### 1a — Activity Name
+     ![screenshot](readme-assets/activity-1a.png)
+     What you tried, what you discovered.
 
-     ### 🛠️ Hardware
-     List the physical components you used.
-     - Arduino Uno
-     - Ultrasonic sensor (HC-SR04)
-
-     ### 🔍 Sensor Mapping
-     How does your sensor data map to visual or sonic output?
-     e.g. "Distance (0–400cm) → circle size (10–400px) using map()"
+     ### 1b — Activity Name
+     ![screenshot](readme-assets/activity-1b.png)
+     What you tried, what you discovered.
 
      ### 🧩 Something I Found Interesting
-     A snippet, a technique, a happy accident.
+     A line of code, a technique, a happy accident — paste it here.
      ```js
      // your code here
      ```
 
+     ### ❓ Questions I'm Sitting With
+     Anything unresolved, something you want to revisit, or a rabbit hole you fell into.
+
      ### 🔗 References
-     Anything that helped — tutorials, datasheets, examples.
+     Links to anything that helped or inspired you this week.
      ───────────────────────────────────────────────────── -->
