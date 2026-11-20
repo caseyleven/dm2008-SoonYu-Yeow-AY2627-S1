@@ -31,24 +31,38 @@
 ### Output
 
 **3a**
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20154748.png)
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161819.png)
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161826.png)
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161840.png)
+
 
 ---
 
 **3b**
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20171254.png)
 
 This was a screenshot of the face I was trying to make before it was lost to time...
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20141736.png)
+
 This was my first attempt at making an atom. It followed my cursor and everything but I couldn't get the nucleus to follow along, or it was just slightly off-center.
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20141743.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20141751.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20142033.png)
+
 Eventually I got the nucleus and thus the entire atom to follow my cursor. Finally, I tested out adjusting atomX and atomY to see if I could size the atom up and down without any problems.
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20142043.png)
+
 And voila!
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

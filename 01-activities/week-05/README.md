@@ -31,22 +31,39 @@ Kapi introduced a wasColliding check that only turned false when the balls separ
 ### Output
 
 ![screenshot](readme-assets/Screenshot%202026-09-09%20155843.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-09%20162821.png)
+
 Initial stages of building my sketch.
+
 ![screenshot](readme-assets/Screenshot%202026-09-09%20163130.png)
+
 At this point, I had managed to create a new agent, but it froze there...
+
 ![screenshot](readme-assets/Screenshot%202026-09-09%20163237.png)
+
 ...and gave me an error message. I couldn't comprehend why I was freezing, not understanding that 1. the collision was happening for several frames, freaking the sketch out, and 2. I was doing all this in show(), which was not suited for frame-by-frame interactions like this.
+
 ![screenshot](readme-assets/Screenshot%202026-09-09%20164441.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-09%20165011.png)
+
 At some point, I took Kapi's advice and adjusted the code accordingly. Then I thought some trail effects would look cool, so I tried adding them.
+
 ![screenshot](readme-assets/Screenshot%202026-09-14%20205145.png)
+
 OK, obviously after this I stopped using trail effects, as it seemed to be causing more trouble for me.
+
 ![screenshot](readme-assets/Screenshot%202026-09-14%20205603.png)
+
 I resized the rainbow background (which was really just the rainbow emoji sized up) to fit canvas.
+
 ![screenshot](readme-assets/Screenshot%202026-09-14%20205631.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-14%20205820.png)
+
 And hooray! Lots of babies were created.
+
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->

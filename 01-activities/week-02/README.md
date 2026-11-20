@@ -31,29 +31,48 @@ For activity 2b, I was inspired by how audio waveforms look like, and so I imple
 ### Output
 
 **2a**
+
 ![screenshot](readme-assets/Screenshot%202026-08-19%20165708.png)
+
 Played with size in one of the visual modes first.
+
 ![screenshot](readme-assets/Screenshot%202026-08-19%20172447.png)
+
 Experimented with different colours.
+
 ![screenshot](readme-assets/Screenshot%202026-08-19%20172455.png)
+
 ![screenshot](readme-assets/Screenshot%202026-08-19%20172508.png)
+
 I chose white for this mode, but later chose light yellow as it is complimentary to blue/purple. I also decided to use complimentary colours for mode '2', which uses pink and green.
+
 ![screenshot](readme-assets/Screenshot%202026-08-19%20172521.png)
+
 
 ---
 
 **2b**
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20143856.png)
 
 ![screenshot](readme-assets/Screenshot%202026-08-26%20144144.png)
+
 Changing the colour to red.
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20150002.png)
+
 I'm honestly not really... sure how I did this, or what I was trying to do. Probably experimenting with shapes. 
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20153834.png)
+
 At some point I did achieve the audio waveform effect, but I wanted to do some dual-colour effect, and honestly it looked not very good so I changed it all to one colour.
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20154003.png)
+
 Now this is what the sketch looks before you press the mouse...
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20154009.png)
+
 And after you press it, and the sketch continues moving and boucning around until you stop pressing on the mouse.
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

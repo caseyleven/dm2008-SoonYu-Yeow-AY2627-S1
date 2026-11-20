@@ -34,22 +34,34 @@ I did struggle with 4b quite a lot, although I think it was because I thought it
 ### Output
 
 **4a**
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20160901.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20162315.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20162320.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20162326.png)
 
+
 I'm sorry that there isn't much going on in the pictures, but really I just added one extra flavour and switched between them using clicks on my mouse. It doesn't look flashy but at least it works.
+
 ---
 
 **4b**
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20165449.png)
 
 In the beginning it looked like this. You can see why i was overwhelmed.
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20170401.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20170614.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20170751.png)
+
 ![screenshot](readme-assets/Screenshot%202026-09-02%20172154.png)
+
 I think around here was when I managed to get the shrinking working, by just using -= (insert random number here).
 
 Kapi also leaked the secret code to making the agents bounce, which was really just our coordinates multiplied by a bunch of negative numbers.
@@ -57,14 +69,21 @@ Kapi also leaked the secret code to making the agents bounce, which was really j
 Using if (agents[i].sz <= 0) {
   agents.splice(i, 1);
 }
+
 allows the agents to disappear once they shrink, by killing off the agent that appears first in that array, which must surely be the first to disappear.
 
 ![screenshot](readme-assets/Screenshot%202026-11-20%20012217.png)
+
 I began to go crazy with trail effects.
+
 ![screenshot](readme-assets/Screenshot%202026-11-20%20012227.png)
+
 ![screenshot](readme-assets/Screenshot%202026-11-20%20012239.png)
+
 ![screenshot](readme-assets/Screenshot%202026-11-20%20012245.png)
+
 Unfortunately with most trail effects, they leave behind a slight discoloration.
+
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

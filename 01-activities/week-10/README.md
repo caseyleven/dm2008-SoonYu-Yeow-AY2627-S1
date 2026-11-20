@@ -28,14 +28,32 @@ In the sketch Kapi provided, you could change the colour, shape, and size of a s
 ### Output
 
 ![screenshot](readme-assets/Screenshot%202026-11-20%20220650.png)
+
+This was how the project looked like.
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20155214.png)
+
+I added redness, greenness, and blueness sliders, which were very easy to implement.
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20155219.png)
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20160050.png)
+
+Playing with the colours here.
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20161501.png)
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20165651.png)
+
+Here, I decided to change the control panel by adding a grey backing.
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20170652.png)
+
+I changed the font too!
+
 ![screenshot](readme-assets/Screenshot%202026-10-21%20170659.png)
 
+I stopped here. I think it looks great.
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
