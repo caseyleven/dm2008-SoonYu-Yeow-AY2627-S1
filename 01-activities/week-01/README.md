@@ -31,6 +31,7 @@ For activity 1b, I created a simple trail-like effect using the mousePressed fun
 ### Output
 
 **1a**
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-12%20171434.png)
 
 This was the only picture from my activity 1a. After Kapi reminded me to take progress photos, I took a whole bunch for activity 1b.
@@ -38,32 +39,56 @@ This was the only picture from my activity 1a. After Kapi reminded me to take pr
 ---
 
 **1b**
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151050.png)
+
+
 I based my sketch off of the George Nees' sketch provided by Kapi.
 
 
 
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151114.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151140.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151158.png)
+
 I decided to keep it just to one square first so I could focus on effects.
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151213.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151225.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151304.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151311.png)
+
 I liked the trail effect here, but I wanted a smoother look, so I increased the stroke.
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20151353.png)
+
 It looked a lot better now.
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152015.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152024.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152207.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152210.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152219.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152454.png)
+
 From here, I decided to change the colour to something more vibrant.
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152905.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20152913.png)
+
 ![App Dashboard](readme-assets/Screenshot%202026-08-19%20153014.png)
+
 And voila!
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
