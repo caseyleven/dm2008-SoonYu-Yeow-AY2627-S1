@@ -1,0 +1,18 @@
+.big-btn {
+  font-size: 24px;
+   font-family: "Google Sans Flex", -apple-system, BlinkMacSystemFont, sans-serif;
+  padding: 12px 24px;     
+  background-color: #082E5B; 
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer; 
+}
+
+.big-btn:hover {
+  background-color: #A7356E; 
+}
+
+body, button, select, input, p {
+  font-family: "Google Sans Flex", -apple-system, BlinkMacSystemFont, sans-serif;
+}

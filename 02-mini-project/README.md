@@ -1,4 +1,4 @@
-# Mini Project — Title
+# Mini Project — Bieber V Derulo 
 
 <!-- Replace "Title" with the name of your project, e.g. "Mini Project — Pong Remix" -->
 
@@ -8,6 +8,10 @@
 
 <!-- What did you build and what makes it yours? A few sentences is enough.
      What did you change, add, or push beyond the scaffold? -->
+
+My sketch features a game of Pong between Justin Bieber and Jason Derulo. This is achieved by having their faces replace the pong rackets. As the ball collides with their faces, a song from the artist will play. When one side wins, that side's artist will sing a song over the victory screen.
+
+I also made a start screen, because the ball bouncing immediately after the sketch had been loaded was too sudden for me.
 
 ---
 
