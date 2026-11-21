@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 8 — Arduino Basics
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -50,13 +50,13 @@ Here we began slowly setting up the arduino.
 
 We got the lights working, but it was hard getting used to the new language used in Arduino.
 
-[Watch Online](https://youtube.com/shorts/iUQuHNehv5I) 
+[Blinking Light Example](https://youtube.com/shorts/iUQuHNehv5I) 
 
-Blinking Light Example
 
-[Watch Online](https://youtube.com/shorts/rH6L4_IVb_Q?feature=share) 
 
-Fading Light Example
+[Fading Light Example](https://youtube.com/shorts/rH6L4_IVb_Q?feature=share) 
+
+
 
 ---
 
@@ -76,9 +76,9 @@ Slowly setting up the motion sensor...
 
 We got the console to convert the units to cm!
 
-[Watch Online](https://youtu.be/YYtU9IOrQGQ)
+[Sensor Example](https://youtu.be/YYtU9IOrQGQ)
 
-Sensor Example
+
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

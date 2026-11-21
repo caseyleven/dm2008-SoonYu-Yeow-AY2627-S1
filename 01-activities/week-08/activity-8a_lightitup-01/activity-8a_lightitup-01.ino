@@ -10,9 +10,9 @@ void setup() {
 
 void loop() {
   digitalWrite(ledPin, HIGH); // LED on
-  delay(100);
+  delay(300);
   digitalWrite(ledPin, LOW);  // LED off
-  delay(100);
+  delay(500);
 }
 
 // DM2008 — Activity 8a
@@ -36,7 +36,7 @@ void loop() {
     fadeAmount = -fadeAmount;
   }
 
-  delay(30);
+  delay(10);
 }
 
 // DM2008 — Activity 8a
