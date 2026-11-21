@@ -42,7 +42,7 @@ This was overall an interesting project, considering it was our first time tryin
 
 I really do have mixed feelings about Arduino. I know technically there are more advance hardware to work with, and this is meant to be basic, but as someone who has no background in coding, it was a steep learning curve. I felt kind of lost just playing around with the sensor. I think our testing went smoothly, but when we ran into an issue (like not being able to sense motion correctly), it was hard to rectify it as we weren't as familiar with Arduino code.
     
-The templates Kapi gave us were really very useful, with room to learn and pick up the code we were taught into practice. I appreciate that I still got the opportunity to interact with tangible coding experiences.
+The templates Kapi gave us were really very useful, with room to learn and pick up the code we were taught into practice. I appreciate that I still got the opportunity to interact with tangible coding hardware.
 
 ---
 
