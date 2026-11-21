@@ -1,3 +1,3 @@
-# My Project
+# Planet Maker 🚀🪐🌕🌑☄️🛸
 
-Write an introduction or document your project here. Be sure to _rename the main folder_ when you duplicate this for use in your own projects!
+A nice little Planet Maker. CHanging the planet's features will change the music as well. Tinker with the controls and see what planet or music suits you the most!

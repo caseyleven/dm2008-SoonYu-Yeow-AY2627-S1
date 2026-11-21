@@ -1,4 +1,4 @@
-# Mini Project — Bieber V Derulo 
+# Mini Project — Bieber V Derulo 🎵🎧💃🎾🥎🕺🎶
 
 <!-- Replace "Title" with the name of your project, e.g. "Mini Project — Pong Remix" -->
 
@@ -18,14 +18,21 @@ I also made a start screen, because the ball bouncing immediately after the sket
 ### Output
 
 I got the pong game working pretty quickly using simple bounce mechanics. The hard part was customising it and adding the sound effects.
+
 ![screenshot](readme-assets/Screenshot%202026-09-15%20205753.png)
+
 I first thought that I should make a start screen, because you needed to press on the screen for the ball to move anyway, and this would make it less jarring.
+
 ![screenshot](readme-assets/Screenshot%202026-09-15%20212317.png)
+
 Here is what the game looked like after the start screen. Pretty basic.
+
 ![screenshot](readme-assets/Screenshot%202026-09-16%20151943.png)
+
 I also started making victory screens for each side. I called them left side and right side for now so I knew the victory screens were assigned correctly.
 
 ![screenshot](readme-assets/Screenshot%202026-09-16%20163611.png)
+
 Later I refined the font for the start screen. However, I wanted a little 'screensaver' of the ball bouncing around in the start screen to keep players entertained. For some reason I had some trouble coding this in.
 
 I remember Kapi telling me to just not bother with making it an extra agent and just create a new ellipse just for the start screen. I still couldn't figure that out so I did a workaround, which was just calling a new variable 'introBall' and have it create an agent 'ball', within the start screen.
@@ -84,7 +91,7 @@ Just a short clip of my awesome pong game...
      — What was your biggest challenge, and how did you work through it?
      — What would you push further if you had more time? -->
 
-I just wanted to make a silly sketch I would have fun doing. At the timme I had a bunch of other stressful assignments and coming back to coding this made me enjoy it a bit more. I do wish I could have added more sound effects, but my sketch was already having taking a long time loading from all the songs I put on it.
+I just wanted to make a silly sketch I would have fun doing. At the time I had a bunch of other stressful assignments and coming back to coding this made me enjoy it a bit more. I do wish I could have added more sound effects, but my sketch was already having taking a long time loading from all the songs I put on it.
 
 This brought me to my next point: I think if I were going to make another sketch with audio effects, I would try to keep it as minimal as possible. The loading times really interfered with my testing.
 

@@ -1,4 +1,4 @@
-# Sensor Jam — Pufferfish
+# Sensor Jam — Pufferfish🦈🐟🐠🐡🎣
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 

@@ -22,9 +22,9 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
-     For 3a, I used the guided sketch as a jumping pad, and I made it so that the ellipse in the center would cycle through random radii from 50 - 300 and change colour every frame. The r of the rgb would -1 while b and g would + 1 every frame. Unfortunately I think the effect I was trying to go for was to have the colour change continuously, but I didn't know what to write in order to achieve that effect.
+For 3a, I used the guided sketch as a jumping pad, and I made it so that the ellipse in the center would cycle through random radii from 50 - 300 and change colour every frame. The r of the rgb would -1 while b and g would + 1 every frame. Unfortunately I think the effect I was trying to go for was to have the colour change continuously, but I didn't know what to write in order to achieve that effect.
 
-     For 3b, I tried creating a face at first to follow the cursor, but then I forgot to save my sketch so I redid everything and settled for the shape of an atom instead. The shape can be manipulated using the values atomX and atomY, and I was going to create a separate variable for the colour, but honestly just adjusting the fill of the atomic nucleus was enough and had the same effect without creating extra variables.
+For 3b, I tried creating a face at first to follow the cursor, but then I forgot to save my sketch so I redid everything and settled for the shape of an atom instead. The shape can be manipulated using the values atomX and atomY, and I was going to create a separate variable for the colour, but honestly just adjusting the fill of the atomic nucleus was enough and had the same effect without creating extra variables.
 
 ---
 
@@ -34,11 +34,18 @@
 
 ![screenshot](readme-assets/Screenshot%202026-08-26%20154748.png)
 
+Every idea begins with a small tiny dot.
+
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161819.png)
+
+Now the ellipse pulsed every frame becuase it randomly changes radii from a set range of values... and also changes colour every frame! However, I couldn't get it to change colours indefinitely. The effect still looked pretty cool, though.
+
 
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161826.png)
 
 ![screenshot](readme-assets/Screenshot%202026-08-26%20161840.png)
+
+And of course, I did a little trail effect by lowering the opacity of the background.
 
 
 ---
